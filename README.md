@@ -10,7 +10,7 @@ An intelligent document processing system that allows you to upload PDFs and ask
 - 🤖 **AI-Powered Q&A** - Ask questions about your documents using DeepSeek LLM
 - 🔍 **Semantic Search** - Find relevant content using vector embeddings
 - 🐳 **Dockerized Deployment** - Easy setup with Docker Compose
-- 💻 **Modern UI** - Clean, responsive interface built with React and TailwindCSS
+- 💻 **Modern UI** - Clean, responsive interface built with React, Shadcn and TailwindCSS
 
 ## 🧩 Tech Stack
 
