@@ -1,6 +1,5 @@
 # 📄 PDF Analyzer - AI Document Processing System
 
-![Project Banner](https://via.placeholder.com/1200x400?text=AI+Document+Analysis+with+DeepSeek+LLM)
 
 An intelligent document processing system that allows you to upload PDFs and ask questions about their content using AI-powered analysis with DeepSeek LLM.
 
